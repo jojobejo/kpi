@@ -1,0 +1,20 @@
+-- Backup khusus KPI user 171 - tahap 3
+-- Database: kiucoid_kpi
+-- Dibuat: 2026-08-26 23:56:30 WIB
+-- Scope: tb_bobotkpi, tb_kpi, tb_whats, tb_hows, tb_indikator_whats, tb_indikator_hows, tbsim_bobotkpi, tbsim_kpi, tbsim_whats, tbsim_hows, tbsim_indikator_whats, tbsim_indikator_hows
+-- Filter utama: id_user = 171. Filter indikator memakai parent WHAT/HOW milik user 171.
+
+-- Row count saat backup:
+-- tb_bobotkpi: 0
+-- tb_kpi: 0
+-- tb_whats: 0
+-- tb_hows: 0
+-- tb_indikator_whats: 0
+-- tb_indikator_hows: 0
+-- tbsim_bobotkpi: 0
+-- tbsim_kpi: 0
+-- tbsim_whats: 0
+-- tbsim_hows: 0
+-- tbsim_indikator_whats: 0
+-- tbsim_indikator_hows: 0
+-- Tidak ada INSERT di bawah ini karena tidak ada record KPI user 171 pada database live saat backup dibuat.
